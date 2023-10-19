@@ -1,6 +1,6 @@
 [project]
 name = "hello-shinyerang"
-version = "0.1.0"
+version = "0.3.0"
 description = "The python program I'm distributing for the first time which build backend to use?"
 authors = [
     {name = "Shinyerang", email = "syr2020@naver.com"},
