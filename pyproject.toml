@@ -5,7 +5,9 @@ description = "The python program I'm distributing for the first time which buil
 authors = [
     {name = "Shinyerang", email = "syr2020@naver.com"},
 ]
-dependencies = []
+dependencies = [
+    "pandas>=2.0.3",
+]
 requires-python = ">=3.8"
 readme = "README.md"
 license = {text = "MIT"}
